@@ -17,4 +17,4 @@
 * Intellij IDEA Code with Me
 
 ## References
-* https://core.telegram.org/bots
+* https://github.com/b2etw/workshop-2021-kotlin/wiki/Telegram-Bot-Settings
