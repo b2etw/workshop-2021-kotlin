@@ -5,7 +5,7 @@
 * Telegram Account
 
 ## Notations or Skills
-* Telegram Bot SDK
+* Telegram Bot API
 * Spring Framewrok with Kotlin
   * First Spring Boot
   * Schedule
