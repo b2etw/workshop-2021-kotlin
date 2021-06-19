@@ -13,7 +13,9 @@
     * Schedule
     * HTTP Client
 * Specification by Example
-* Small steps to BDD & TDD
+* Tiny steps to BDD & TDD
+  * Specification by Example
+  * Test Cases
 
 ## Tools
 * Intellij IDEA Code with Me
