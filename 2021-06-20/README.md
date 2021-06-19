@@ -7,8 +7,7 @@
 * Telegram Account
 
 ## Notations or Skills
-
-* Telegram Bot SDK
+* Telegram Bot API
 * Spring Framewrok with Kotlin
     * First Spring Boot
     * Schedule
@@ -17,9 +16,7 @@
 * Small steps to BDD & TDD
 
 ## Tools
-
 * Intellij IDEA Code with Me
 
 ## References
-
 * https://github.com/b2etw/workshop-2021-kotlin/wiki/Telegram-Bot-Settings
