@@ -1,18 +1,17 @@
 ## Functions
-
 * [Guess Number Game](https://github.com/b2etw/workshop-2021-1-kotlin/issues/1)
 
 ## Prerequisites
-
 * Telegram Account
 
 ## Notations or Skills
 * Telegram Bot API
-* Spring Framewrok with Kotlin
-    * First Spring Boot
+* Spring Framework with Kotlin
+  * First Spring Boot
+    * Reactive Web
+    * Coroutine
     * Schedule
-    * HTTP Client
-* Specification by Example
+    * WebClient
 * Tiny steps to BDD & TDD
   * Specification by Example
   * Test Cases
@@ -22,3 +21,4 @@
 
 ## References
 * https://github.com/b2etw/workshop-2021-kotlin/wiki/Telegram-Bot-Settings
+
