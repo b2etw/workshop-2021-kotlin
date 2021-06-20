@@ -22,3 +22,5 @@
 ## References
 * https://github.com/b2etw/workshop-2021-kotlin/wiki/Telegram-Bot-Settings
 
+## Mind Map
+![](https://raw.githubusercontent.com/b2etw/workshop-2021-kotlin/main/images/workshop-06-20.png)
