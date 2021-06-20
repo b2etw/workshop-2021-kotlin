@@ -3,4 +3,4 @@
 * let's mob programming !
 
 # 📜 Records
-* [2021-06-20](./2021-06-20/README.md)
+* [2021-06-20](./workshop-06-20/README.md)
