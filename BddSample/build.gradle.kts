@@ -13,4 +13,5 @@ dependencies {
     implementation(kotlin("stdlib"))
     testImplementation("io.cucumber:cucumber-java:6.10.4")
     testImplementation("io.cucumber:cucumber-junit:6.10.4")
+    testImplementation("org.assertj:assertj-core:3.20.2")
 }
