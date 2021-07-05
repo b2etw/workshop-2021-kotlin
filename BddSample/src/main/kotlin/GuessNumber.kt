@@ -1,8 +1,25 @@
-class GuessNumber(private val password: Int?) {
-    fun check(arg0: Int): String {
-        if (password != arg0) {
-            return "0A0B"
+class GuessNumber(val answer: String) {
+    fun check(input: String): String {
+        return "${getA(input)}A${getB(input, answer.toHashSet()) - getA(input)}B"
+    }
+
+    private fun getA(input: String): Int {
+        var a = 0
+        input.forEachIndexed { index, c ->
+            if (answer[index] == c) {
+                a++
+            }
         }
-        return "4A0B"
+        return a
+    }
+
+    private fun getB(input: String, answerSet: HashSet<Char>): Int {
+        var b = 0
+        input.forEach {
+            if (answerSet.contains(it)) {
+                b++
+            }
+        }
+        return b
     }
 }
